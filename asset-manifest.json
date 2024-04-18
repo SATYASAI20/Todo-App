@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SATYASAI20/Todo-App.git/static/css/main.2ba5d079.css",
+    "main.js": "/SATYASAI20/Todo-App.git/static/js/main.34ab0885.js",
+    "static/js/453.59bb3b6d.chunk.js": "/SATYASAI20/Todo-App.git/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "/SATYASAI20/Todo-App.git/index.html",
+    "main.2ba5d079.css.map": "/SATYASAI20/Todo-App.git/static/css/main.2ba5d079.css.map",
+    "main.34ab0885.js.map": "/SATYASAI20/Todo-App.git/static/js/main.34ab0885.js.map",
+    "453.59bb3b6d.chunk.js.map": "/SATYASAI20/Todo-App.git/static/js/453.59bb3b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ba5d079.css",
+    "static/js/main.34ab0885.js"
+  ]
+}
